@@ -1,3 +1,10 @@
+/**
+ * @author effine
+ * @Date 2015年8月12日  下午11:45:51
+ * @email verphen#gmail.com
+ * @site http://www.effine.cn
+ */
+
 package cn.effine.model;
 
 import java.io.Serializable;
